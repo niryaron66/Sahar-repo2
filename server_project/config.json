@@ -1,10 +1,11 @@
 {
     "userName": "omerdo",
-    "password": "omerhila",
+    "password": "omerhila1",
     "accountId": "40920689",
 
     "serviceLogInName": "agentVep",
     "messageHistName": "msgHist",
+    "accountConfigReadOnly" : "accountConfigReadOnly",
 
     "numberOfRetriesAPICalls": 3,
 
